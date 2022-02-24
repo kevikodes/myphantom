@@ -44,7 +44,7 @@ const Home = ({ openseaURL, user }) => {
             style={{ fontSize: "2rem", fontFamily: "Sedgwick Ave, cursive" }}
             className="releaseDate"
           >
-            The NFT has been released! Get yourself a Phantom!!!
+            The NFT has not been released! Get yourself a Phantom!!!
           </h1>
         )}
         {/* //Display the release date if the nft is not released yet */}
